@@ -2,6 +2,6 @@
 
 Undergraduate at Lomonosov Moscow State University.
 
-**Pinned projects below.** Or browse all [repositories](https://github.com/DenisSud?tab=repositories).
+**Pinned projects below.** Or browse all [repositories](https://github.com/densudk?tab=repositories).
 
 [sudakov.site](https://sudakov.site) · [Telegram](https://t.me/DenisSud2) · sudakov.denis.2007@gmail.com
